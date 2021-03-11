@@ -1,3 +1,7 @@
+# 동영상 파일 Upload 금지
+*.avi
+*.mp3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
