@@ -2,6 +2,9 @@
 *.avi
 *.mp3
 
+# Lecture slide 폴더 Upload 금지
+./Lecture Slides/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
