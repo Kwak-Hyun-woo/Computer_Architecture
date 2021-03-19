@@ -28,5 +28,3 @@ High-level language program ====Compiler===> Assembly language program(for MIPS)
 - Cache를 더 크게하고 Prefetch system을 더 낫게 개선하여 2배씩 증가
 
 - 전력에 의한 열, Pipeline 길이를 늘이는 것에 대한 한계, 느린선들, 공간을 넓혀 하드웨어를 많이 넣어도 10-20% 밖에 개선을 못하는 점 등등으로 2배 이상 집적도를 올리기 힘들어짐
-
-### 
