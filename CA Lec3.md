@@ -26,6 +26,10 @@ $T_{improved}$ : 개선된 컴퓨터에서 실행되는 시간
 
 > 결론: Make the Common case fast => 공통적으로 쓰이는 부분들을 향상시켜야 한다.
 
+
+
+## 3. ISA1
+
 ### Instruction Set Architecture
 
 Contract between programmer and the hardware

@@ -1,5 +1,7 @@
 # CA lec1
 
+## 1. Instruction
+
 ### ISA (Instruction set architecture)
 
 - HW와 SW 사이의 Interface(HW와 SW 간의 약속을 정의)

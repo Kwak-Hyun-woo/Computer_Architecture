@@ -15,10 +15,12 @@
 ### Parallelism
 
 - 회로적인 작동은 병렬적이다.
-
 - CPU, memory, disk, networks 작동들은 병렬적으로 이루어진다.
-
 - ex) Pipelining, Superscalar, Vector Operation, Multi-cores
+
+
+
+## 2. Performance
 
 ### Defining Performance
 
